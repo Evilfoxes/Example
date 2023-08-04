@@ -1,0 +1,15 @@
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\bin\Debug\net6.0\Examole_002_Hello_User.exe
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\bin\Debug\net6.0\Examole_002_Hello_User.deps.json
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\bin\Debug\net6.0\Examole_002_Hello_User.runtimeconfig.json
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\bin\Debug\net6.0\Examole_002_Hello_User.dll
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\bin\Debug\net6.0\Examole_002_Hello_User.pdb
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\obj\Debug\net6.0\Examole_002_Hello_User.csproj.AssemblyReference.cache
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\obj\Debug\net6.0\Examole_002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\obj\Debug\net6.0\Examole_002_Hello_User.AssemblyInfoInputs.cache
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\obj\Debug\net6.0\Examole_002_Hello_User.AssemblyInfo.cs
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\obj\Debug\net6.0\Examole_002_Hello_User.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\obj\Debug\net6.0\Examole_002_Hello_User.dll
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\obj\Debug\net6.0\refint\Examole_002_Hello_User.dll
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\obj\Debug\net6.0\Examole_002_Hello_User.pdb
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\obj\Debug\net6.0\Examole_002_Hello_User.genruntimeconfig.cache
+C:\Users\Алексей\Documents\Учеба\Лекция\Лекция №6 Знакомство с языком программирования C#\С#\Example\Examole_002_Hello_User\obj\Debug\net6.0\ref\Examole_002_Hello_User.dll
